@@ -1,4 +1,4 @@
-#ETL-Project Final Notes
+#Final-Project Notes
 
     * For the datasets used, I took csv files from several sources. From the Austin Data page at data.austintexas.gov, I files for parks, restaurant inspection scores, crime incidents, etc. The datasets had to include zip codes, so that we could aggregate all of our indicators of quality of life and group them together by zip code. Basically, I was trying to measure quality of life through numbers and metrics for Austin Zip Codes and compare them to each other.
             
